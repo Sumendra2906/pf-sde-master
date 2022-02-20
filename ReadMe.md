@@ -2,6 +2,12 @@
 Assignment to test fundamental knowledge for Prism Force. This can be written in any language or framework.
 
 
+https://user-images.githubusercontent.com/55164121/154861302-339ba1c7-de39-43a4-ac3e-cba1459154d3.mp4
+
+
+https://user-images.githubusercontent.com/55164121/154861334-19ea09a9-44d1-4f28-9e54-c5c71f5f2659.mp4
+
+
 ### Problem statement
 Write a file which will take a json object containing the revenue and expense data of a company, and output its balance sheet month wise. The revenue and expense may be fixed or variable amounts payable in installments.
 
@@ -23,10 +29,5 @@ Revenue and expenses may have multiple entries per month, may have missing data 
 
 ### Sample data
 2 set of files have been included where input is sample input data and output is the expected values.
-
-https://user-images.githubusercontent.com/55164121/154861302-339ba1c7-de39-43a4-ac3e-cba1459154d3.mp4
-
-
-https://user-images.githubusercontent.com/55164121/154861334-19ea09a9-44d1-4f28-9e54-c5c71f5f2659.mp4
 
 
